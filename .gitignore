@@ -1,0 +1,5 @@
+BrowserTab.pyc
+#BrowserTab.py#
+*.pyc
+*.db
+*.py~
